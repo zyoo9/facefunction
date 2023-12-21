@@ -1,0 +1,13 @@
+batch-set-defaults -s /Users/zyooo/Desktop/project/facefusion/face1.jpg --output /Users/zyooo/Desktop/test
+-t /Users/zyooo/Desktop/project/facefusion/some-target.jpg
+-t /Users/zyooo/Desktop/face_0001.jpg
+-t /Users/zyooo/Desktop/project/facefusion/test/face_0001.jpg
+-t /Users/zyooo/Desktop/project/facefusion/test/face_0002.jpg
+-t /Users/zyooo/Desktop/project/facefusion/test/face_0003.jpg
+-t /Users/zyooo/Desktop/project/facefusion/test/face_0004.jpg
+-t /Users/zyooo/Desktop/project/facefusion/test/face_0005.jpg
+-t /Users/zyooo/Desktop/project/facefusion/test/face_0006.jpg
+-t /Users/zyooo/Desktop/project/facefusion/test/face_0007.jpg
+-t /Users/zyooo/Desktop/project/facefusion/test/face_0008.jpg
+-t /Users/zyooo/Desktop/project/facefusion/test/face_0009.jpg
+-t /Users/zyooo/Desktop/project/facefusion/test/face_0010.jpg
